@@ -1,0 +1,76 @@
+.selector-for-some-widget {
+	box-sizing: content-box;
+}
+
+body {
+	width: auto;
+	height: auto; 
+	background-color: cyan;
+
+}
+
+
+.main-text-content {
+	height: auto;
+	position: relative;
+	top: 80px;
+	background-color:white;
+	padding-top: 20px ;
+	padding-bottom:20px;
+}
+
+.jumbotron {
+	position: relative;
+	top: 10px;
+}
+
+#top-navigation-bar {
+	background-color: black;
+	font-size: 1em;
+
+}
+
+.navbar-brand {
+	margin-right: 50px;
+	margin-left: 20px;
+	font-size: 1.5em;
+}
+
+
+
+.fixed-width {
+	width:1500px;
+	margin:40px 40px 40px 240px;
+}
+
+#main-section {
+	width: 100%;
+	height: auto;
+	margin: 100px 10px 0 10px;
+}
+
+.category-row {
+	width: auto;
+	height: auto;
+	margin: 50px 20px 20px 20px;	
+}
+
+.row {
+	height: auto;
+	width: auto;
+}
+
+.col-sm-3 {
+	margin-left: 30px;
+	margin-right: ;
+	padding-left: 90px;
+	padding-right: 90px; 
+}
+
+#footer {
+	width:100%;
+	margin: 0 0 0 0;
+	position: relative;
+	bottom:-250px;
+}
+
